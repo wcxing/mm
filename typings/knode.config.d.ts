@@ -1,0 +1,1 @@
+/Users/wucx/.nvm/versions/node/v12.18.4/lib/node_modules/@gsx/knode-cli/data/typings/knode.config.d.ts
